@@ -1,5 +1,6 @@
 - Dhruv Sood
 - Shourya Chambial
+- Tanishq
 A website to track competitive coding progress of club members.
 Objectives :
 
